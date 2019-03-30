@@ -170,7 +170,9 @@ td, th {
 }
 
 .page_header img.logo {
-  display: none; # hide the git-scm logo
+  position: relative;
+  top: 7px;
+  margin-right: 5px;
 }
 
 /* Page Footer
